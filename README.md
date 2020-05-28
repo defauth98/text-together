@@ -9,13 +9,13 @@
   </a>
 </p>
 
-## Install
+## Instalar
 
 ```sh
 yarn install
 ```
 
-## Usage
+## Rodar o projeto
 
 ```sh
 yarn run start
