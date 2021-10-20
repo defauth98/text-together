@@ -17,13 +17,21 @@
 ## Instalar
 
 ```sh
+#com npm
+npm i
+
+#com yarn
 yarn install
 ```
 
 ## Rodar o projeto
 
 ```sh
-yarn run start
+#com npm
+npm start
+
+yarn start
+
 ```
 
 ## Author
