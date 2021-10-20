@@ -14,37 +14,30 @@
 É preciso usar dois textos, um em inglês e outro em português, sendo que um é a tradução do outro. Após copiar os textos para seus respectivos arquivos, basta rodar um `yarn start` que a mágica irá acontecer. 
 
 
-## Instalar
+## Instalar e Rodar
 
 ```sh
-yarn install
-
-#ou
-
+#com npm
 npm i
+
+#com yarn
+yarn install
 ```
 
 ## Rodar o projeto
 
 ```sh
-yarn start
-
-#ou
-
+#com npm
 npm start
+
+#com yarn
+yarn start
 ```
 
-## Author
+## Autor
 
 👤 **Daniel Ribeiro**
 
 * Twitter: [@Defauth8](https://twitter.com/Defauth8)
 * Github: [@defauth98](https://github.com/defauth98)
 * LinkedIn: [@daniel-ribeiro-397604164](https://linkedin.com/in/daniel-ribeiro-397604164)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
