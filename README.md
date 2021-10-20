@@ -30,8 +30,8 @@ yarn install
 #com npm
 npm start
 
+#com yarn
 yarn start
-
 ```
 
 ## Autor
@@ -41,4 +41,3 @@ yarn start
 * Twitter: [@Defauth8](https://twitter.com/Defauth8)
 * Github: [@defauth98](https://github.com/defauth98)
 * LinkedIn: [@daniel-ribeiro-397604164](https://linkedin.com/in/daniel-ribeiro-397604164)
-
