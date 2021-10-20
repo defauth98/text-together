@@ -18,12 +18,20 @@
 
 ```sh
 yarn install
+
+#ou
+
+npm i
 ```
 
 ## Rodar o projeto
 
 ```sh
-yarn run start
+yarn start
+
+#ou
+
+npm start
 ```
 
 ## Author
